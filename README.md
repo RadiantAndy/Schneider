@@ -1,0 +1,1 @@
+Functional AI-powered App with LLM lever to automate lever data updating for Schneider Electric in the context of the ESCP Big Data and AI Hackathon of 2026. The product was built in 24 hours and presented directly to management at Schneider, leading to a first-place finish and an in-person visit at Schneider's Paris offices
